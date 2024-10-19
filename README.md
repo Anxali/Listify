@@ -1,5 +1,3 @@
-https://anxali.github.io/Listify/
-
 # Listify 
 
 **Listify** is a simple and intuitive notes/to-do list web application built with Node.js, Express.js, EJS, and styled using Tailwind CSS. It allows users to create, view, edit, and manage text-based notes or to-do items.
