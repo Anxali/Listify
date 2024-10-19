@@ -22,3 +22,27 @@
 
 ![WhatsApp Image 2024-10-19 at 15 34 33 (1)](https://github.com/user-attachments/assets/cca8f5d3-44fa-454f-a8ea-9454d0c25988)
 ![WhatsApp Image 2024-10-19 at 15 34 34](https://github.com/user-attachments/assets/5c450a64-0ddf-4664-ba42-161430878137)
+
+#Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/listify.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd listify
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Start the server:
+   ```bash
+   nodemon index.js
+
+5. Open the Application on your browser:
+   ```bash
+   http://localhost:3000
+
+   
